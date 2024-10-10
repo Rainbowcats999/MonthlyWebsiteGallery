@@ -15,3 +15,48 @@ p {
     font-weight: 400;
     font-style: normal;
 }
+
+body {
+    background-color: rgb(44, 33, 33);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/imgs/pretty.webp);
+}
+
+div {
+    text-decoration-color: white;
+}
+
+.img-cs-round {
+    border-radius: 50%;
+    border-color:aquamarine;
+}
+
+.navbar { 
+    background-color: rgb(110, 110, 185);
+}
+
+footer {
+    background-color: rgb(114, 114, 138);
+}
+
+.btn { 
+    background-color: red;
+    border-radius: 30px;
+}
+
+.btn:hover {
+    background-color: rgb(6, 235, 159);
+    color:white;
+    border-radius: 30px;
+}
+
+.card {
+    background-color: orange;
+}
+
+.card:hover {
+    background-color: orangered;
+}
