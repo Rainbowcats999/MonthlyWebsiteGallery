@@ -22,7 +22,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/imgs/pretty.webp);
+    background-image: url(imgs/pretty.webp);
 }
 
 div {
